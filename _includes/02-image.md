@@ -1,1 +1,1 @@
-!([detective cat] (https://octodex.github.com/privateinvestocat/))
+(![detective cat] (https://octodex.github.com/privateinvestocat/))
